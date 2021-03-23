@@ -182,7 +182,7 @@ body {
 }
 
 .column img {
-  opacity: 0.8; 
+  opacity: 0.8;
   cursor: pointer;
 }
 
@@ -190,7 +190,7 @@ body {
   opacity: 1;
 }
 
-.row:after {
+.rowafter {
   display: table;
   clear: both;
 }
