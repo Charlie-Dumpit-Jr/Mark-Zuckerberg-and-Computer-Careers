@@ -179,12 +179,11 @@ body {
   width: 25%;
   height: 25%;
   padding: 10px;
-
 }
 
 .column img {
   opacity: 0.8; 
-  cursor: pointer; 
+  cursor: pointer;
 }
 
 .column img:hover {
@@ -192,7 +191,6 @@ body {
 }
 
 .row:after {
-  content: "";
   display: table;
   clear: both;
 }
@@ -220,5 +218,5 @@ body {
 }
 
 .aboutmark {
-  color: red
+  color: red;
 }
